@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reddit Sample</string>
+    <string name="retry">RETRY</string>
+    <string name="top_posts">Top Posts</string>
+    <string name="hot_posts">Hot Posts</string>
+    <string name="new_posts">New Posts</string>
+</resources>
